@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home" />
+    <item android:title="pesquisa"
+        android:id="@+id/pesquisa"
+        android:icon="@drawable/ic_lupa_risco"/>
+    <item android:title="adicionar"
+        android:id="@+id/add"
+        android:icon="@drawable/ic_add"/>
+    <item android:title="favorito"
+        android:id="@+id/fav"
+        android:icon="@drawable/ic_favorite"/>
+    <item android:title="user"
+        android:id="@+id/user"
+        android:icon="@drawable/ic_user_2"/>
+</menu>

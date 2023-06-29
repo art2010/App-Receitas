@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Edit_text">
+        <item name="android:layout_width"> match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+
+    </style>
+
+    <style name="card">
+        <item name="android:layout_width"> 300dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:background">@drawable/card</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+
+    </style>
+
+
+<style name="roundimageview" parent="">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSize">15dp</item>
+    <item name="color">@color/white</item>
+</style>
+
+
+</resources>
