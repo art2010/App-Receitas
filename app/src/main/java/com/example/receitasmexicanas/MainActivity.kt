@@ -12,12 +12,12 @@ import androidx.fragment.app.replace
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.comidamexicana.R
-import com.example.comidamexicana.adicionar
+import com.example.receitasmexicanas.comidamexicana.adicionar
 import com.example.comidamexicana.databinding.ActivityMainBinding
 import com.example.comidamexicana.databinding.FragmentPesquisaBinding
-import com.example.comidamexicana.favoritos
-import com.example.comidamexicana.pesquisa
-import com.example.comidamexicana.usuario
+import com.example.receitasmexicanas.comidamexicana.favoritos
+import com.example.receitasmexicanas.comidamexicana.pesquisa
+import com.example.receitasmexicanas.comidamexicana.usuario
 import com.example.receitasmexicanas.modelResponse.FoodResponse
 import com.example.receitasmexicanas.ultils.Constants
 
